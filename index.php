@@ -1,12 +1,12 @@
-<?php require_once("config.php"); ?>
+<?php require_once(__DIR__ . "/config.php"); ?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
         <title></title>
-        <?php require_once("includes/head.php"); ?>
+        <?php require_once(__DIR__ . "/includes/head.php"); ?>
     </head>
     <body>
 
-        <?php require_once("includes/scripts.php"); ?>
+        <?php require_once(__DIR__ . "/includes/scripts.php"); ?>
     </body>
 </html>
