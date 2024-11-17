@@ -2,8 +2,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="<?=$config["meta"]["description"]?>">
 <meta property="og:title" content="">
-<meta property="og:type" content="">
-<meta property="og:url" content="">
+<meta property="og:type" content="website">
+<meta property="og:url" content="<?=$config["url"]?>">
 <meta property="og:image" content="">
 <meta property="og:image:alt" content="">
 <link rel="apple-touch-icon" sizes="180x180" href="<?=$config["url"]?>apple-touch-icon.png">
